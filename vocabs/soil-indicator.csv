@@ -1,0 +1,20 @@
+id,label,narrower
+1,Chemical,
+2,Electrical Conductivity,1
+3,Soil Nitrate,1
+4,Soil Reaction (pH),1
+5,Physical,
+6,Aggregate Stability,5
+7,Available Water Capacity,5
+8,Bulk Density,5
+9,Infiltration,5
+10,Slaking,5
+11,Soil Crusts,5
+12,Soil Structure and Macropores,5
+13,Biological,
+14,Earthworms,13
+15,Particulate Organic Matter,13
+16,Potentially Mineralizable Nitrogen,13
+17,Respiration,13
+18,Soil Enzymes,13
+19,Total Organic Carbon,1
